@@ -1,0 +1,3 @@
+C:/Users/user/CLionProjects/Dp_Coin_Collection/cmake-build-debug/CMakeFiles/Dp_Coin_Collection.dir
+C:/Users/user/CLionProjects/Dp_Coin_Collection/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/CLionProjects/Dp_Coin_Collection/cmake-build-debug/CMakeFiles/rebuild_cache.dir
